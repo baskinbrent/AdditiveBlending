@@ -1,0 +1,12 @@
+C:\Users\Brent\Documents\Visual Studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Release\Content\blue.xnb
+C:\Users\Brent\Documents\Visual Studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Release\Content\green.xnb
+C:\Users\Brent\Documents\Visual Studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Release\Content\orange.xnb
+C:\Users\Brent\Documents\Visual Studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Release\Content\purps.xnb
+C:\Users\Brent\Documents\Visual Studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Release\Content\red.xnb
+C:\Users\Brent\Documents\Visual Studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Release\Content\turq.xnb
+C:\Users\Brent\Documents\Visual Studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Release\AdditiveBlendingExperiment.exe
+C:\Users\Brent\Documents\Visual Studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Release\AdditiveBlendingExperiment.pdb
+C:\Users\Brent\Documents\Visual Studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\obj\x86\Release\AdditiveBlendingExperiment.csprojResolveAssemblyReference.cache
+C:\Users\Brent\Documents\Visual Studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brent\Documents\Visual Studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\obj\x86\Release\AdditiveBlendingExperiment.exe
+C:\Users\Brent\Documents\Visual Studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\obj\x86\Release\AdditiveBlendingExperiment.pdb

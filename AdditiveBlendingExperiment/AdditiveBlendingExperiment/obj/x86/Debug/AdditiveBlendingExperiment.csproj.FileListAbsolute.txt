@@ -1,0 +1,12 @@
+c:\users\brent\documents\visual studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Debug\Content\blue.xnb
+c:\users\brent\documents\visual studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Debug\Content\green.xnb
+c:\users\brent\documents\visual studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Debug\Content\orange.xnb
+c:\users\brent\documents\visual studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Debug\Content\purps.xnb
+c:\users\brent\documents\visual studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Debug\Content\red.xnb
+c:\users\brent\documents\visual studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Debug\Content\turq.xnb
+c:\users\brent\documents\visual studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Debug\AdditiveBlendingExperiment.exe
+c:\users\brent\documents\visual studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\bin\x86\Debug\AdditiveBlendingExperiment.pdb
+c:\users\brent\documents\visual studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\obj\x86\Debug\AdditiveBlendingExperiment.csprojResolveAssemblyReference.cache
+c:\users\brent\documents\visual studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\brent\documents\visual studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\obj\x86\Debug\AdditiveBlendingExperiment.exe
+c:\users\brent\documents\visual studio 2012\Projects\AdditiveBlendingExperiment\AdditiveBlendingExperiment\AdditiveBlendingExperiment\obj\x86\Debug\AdditiveBlendingExperiment.pdb
